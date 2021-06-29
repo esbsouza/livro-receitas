@@ -1,4 +1,4 @@
-# #Strogonoff de frango :chicken:
+# Strogonoff de frango :chicken:
 
 
 
@@ -8,11 +8,11 @@ Ingredientes
 
  **negrito**
 
-*itálico*
+_ itálico*
 
 <u>sublinhado</u>
 
- <!--xxx-->
+ <!-- comentário  -->
 
 - [] sdfsd
 
